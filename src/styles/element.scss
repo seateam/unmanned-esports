@@ -1,0 +1,10 @@
+
+// mobile css
+@media screen and (max-width: 48em) {
+  .el-message {
+    min-width: 300px;
+  }
+  .el-message-box {
+    width: 300px;
+  }
+}
