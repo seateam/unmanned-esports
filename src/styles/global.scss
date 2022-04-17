@@ -9,13 +9,12 @@
   // --warning: #e6a23c;
   // --danger: #ff583d;
   // --info: #909399;
-  --text-primary: var(--white);
-  --text-regular: rgba(255, 255, 255, 0.68);
+  --text-primary: #000000;
   // --text-secondary: #909399;
   // --text-placeholder: #c0c4cc;
   --sub: #f6f7fb;
   // up
-  --up-background: #151516;
+  --up-background: var(--white);
 }
 
 *,
@@ -37,7 +36,6 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 }
-
 
 html,
 button,
